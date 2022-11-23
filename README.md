@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Saud0227
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Attending NTI Johanneberg Secondary School studying Tech and It dev.
+  Officer in the student driven Makerspace @Nti-johanneberg-makerspace  
+  Vice president of the programing klubb
+  
+Working at MLE Europe since october 2021
+  It suport
+  
+
+
 
 <!---
 Saud0227/Saud0227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
