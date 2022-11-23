@@ -1,9 +1,11 @@
-Attending NTI Johanneberg Secondary School studying Tech and It dev.
-  Officer in the student driven Makerspace @Nti-johanneberg-makerspace  
-  Vice president of the programing klubb
+Attending NTI Johanneberg Secondary School  
+- Studying It & Tech
+- Officer in the student driven Makerspace @Nti-johanneberg-makerspace   
+- Vice president of the programing klubb
   
-Working at MLE Europe since october 2021
-  It suport
+Working at MLE Europe 
+- Employed since october 2021
+- It suport
   
 
 
